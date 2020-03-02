@@ -1,0 +1,18 @@
+.searchbar{
+    z-index: 3;
+    position: relative;
+    height: 30px;
+    width: 260px;
+    background-color: white;
+    margin-top: 30px;
+    left: 20px;
+    border-radius: 50px;
+    border: none;
+    padding: 0 20px;
+}
+
+input{
+    background: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiYnKDhp6fnAhUQ8BoKHdudBRcQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.onlinewebfonts.com%2Ficon%2F160043&psig=AOvVaw3yIeFMsuGFxpcHGo_Wv4ti&ust=1580335789822247) no-repeat scroll 7px 7px;
+    padding-left:30px;
+    z-index: 5;
+}

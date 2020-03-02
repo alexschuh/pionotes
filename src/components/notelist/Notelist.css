@@ -1,0 +1,15 @@
+.notelist-wrapper ul{
+    padding-inline-start: 0px !important;
+    z-index: 2;
+}
+
+.notelist-wrapper li{
+    width: 100%;
+    margin-left: 0;
+    padding: 10px 0px 10px 20px;
+    cursor: pointer;
+}
+
+.notelist-wrapper li:hover{
+    background-color: rgba(0, 0, 0, 0.1) !important;
+}

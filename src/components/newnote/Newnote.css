@@ -1,0 +1,21 @@
+.newnote{
+    z-index: 5;
+    position: relative;
+    float: right;
+    margin-top: 27px;
+    left: -170px;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    padding: 0px 8px;
+    font-size: 20px;
+    height: 25px;
+    line-height: 25px;
+    cursor:  pointer !important;
+}
+
+.newnote:hover{
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+.newnote:active{
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}
